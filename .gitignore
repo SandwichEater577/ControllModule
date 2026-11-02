@@ -1,0 +1,30 @@
+# KiCad Lock Files
+*.lck
+~*.lck
+
+# KiCad Local Settings & Backups
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*~
+fp-info-cache
+
+# KiCad Export Files (Gerbers, Drills, BOMs)
+*.gbr
+*.drl
+*.g2
+*.g3
+*.zip
+/bom/
+/gerbers/
+/production/
+
+# History / Logs
+.history/
+*.log
+
+# OS & Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
